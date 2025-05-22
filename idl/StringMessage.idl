@@ -1,0 +1,5 @@
+module example {
+  struct StringMessage {
+    string<128> content;
+  };
+};

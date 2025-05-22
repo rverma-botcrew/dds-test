@@ -1,0 +1,1 @@
+/usr/bin/c++ -O2 -g -DNDEBUG CMakeFiles/my_dds_app.dir/src/main.cpp.o CMakeFiles/my_dds_app.dir/StringMessage.cpp.o -o my_dds_app  -Wl,-rpath,/home/rishabh/dds-cxx-install/lib:/home/rishabh/dds-install/lib: /home/rishabh/dds-cxx-install/lib/libddscxx.so.0.11.0 /home/rishabh/dds-install/lib/libddsc.so.0.11.0 
